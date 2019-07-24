@@ -1,2 +1,2 @@
-# jeruk
-aplikasi sering antar pelajar
+# Jeruk
+Aplikasi Sharing Antar Pelajar
